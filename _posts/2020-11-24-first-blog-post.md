@@ -6,4 +6,4 @@ categories: jekyll update
 author: "Gloria"
 ---
 
-Some content 123
+Modify Linux group_vars
